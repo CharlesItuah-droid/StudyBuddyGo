@@ -1,11 +1,11 @@
 [versions]
-ksp = "2.0.0-1.0.21"
+ksp = "2.1.21-2.0.1"
 jetbrainsAnnotationsVersion = "23.0.0"
 room = "2.7.1"
 agp = "8.10.1"
 coilCompose = "2.6.0"
 converterGson = "2.9.0"
-kotlin = "2.0.21"
+kotlin = "2.1.21"
 coreKtx = "1.16.0"
 junit = "4.13.2"
 junitVersion = "1.2.1"
